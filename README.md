@@ -30,3 +30,7 @@ This project is released under the
 ## Citation
 
 > Doe J (2024) Minimal structure of a research compendium.
+
+## Collaborators
+
+Jordi Salmona, Carole Doucerain
