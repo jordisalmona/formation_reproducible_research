@@ -12,6 +12,7 @@ This project is structured as follow:
 - `README.md`: presentation of the project
 - `compendium.Rproj`: RStudio project file
 
+A mettre à jour.
 
 ## Installation
 
@@ -33,5 +34,5 @@ This project is released under the
 
 ## Collaborators
 
-Jordi Salmona, Carole Doucerain
+Jordi Salmona, Carole Doucerain (la meilleure)
 
