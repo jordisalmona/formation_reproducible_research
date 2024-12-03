@@ -33,4 +33,5 @@ This project is released under the
 
 ## Collaborators
 
-Jordi Salmona, Carole Doucerain (on branch carole_dev)
+Jordi Salmona, Carole Doucerain
+
