@@ -3,5 +3,10 @@ Sauf les conflits non conflictuels.
 Mais Carole est très forte pour résoudre les conflits.
 
 Accessoirement, ce fichier pourra servir à garder une trace des conflits rencontrés entre collaborateurices.
+<<<<<<< HEAD
 je veux créer un autre conflit
 il est possible que tous ces conflits nous complique la vie, ces collaborations ne sont pas simples
+=======
+
+je veux créer un nouveau conflit
+>>>>>>> origin/carole_dev
