@@ -1,8 +1,7 @@
-Ce fichier pourra servir à garder une trace des conflits rencontrés entre collaborateurices.
+Tous les conflits sont conflictuels.
+Sauf les conflits non conflictuels.
+Mais Carole est très forte pour résoudre les conflits.
 
-tout les conflits sont conflictuels
-sauf les conflits non conflictuels
-mais Carole est très forte pour résoudre les conflits
-
+Accessoirement, ce fichier pourra servir à garder une trace des conflits rencontrés entre collaborateurices.
 
 je veux créer un nouveau conflit
