@@ -6,3 +6,4 @@ Accessoirement, ce fichier pourra servir à garder une trace des conflits rencon
 
 Je veux créer un autre conflit
 Il est possible que tous ces conflits nous complique la vie, ces collaborations ne sont pas simples
+et encore un nouveau conflit à résoudre, zut alors !
